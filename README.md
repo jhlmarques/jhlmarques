@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+I'm an undergraduate Computer Science student @ UFRGS. Currently working on Computer Vision research.
 
 <!--
 **jhlmarques/jhlmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
